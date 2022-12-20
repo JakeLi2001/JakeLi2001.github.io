@@ -11,7 +11,7 @@ I am a first-generation college student at CUNY Baruch College, Zicklin School o
 - [Data Analyst Keywords Analysis](https://github.com/JakeLi2001/Keywords_for_Data_Analyst) (Python)
 
 ## Personal Projects:
-- [CTP Project - Crime Prediction](https://github.com/Fatimajavid/PredictingCrimesintheUS)
+- [CTP Project - Crime Prediction](https://github.com/Fatimajavid/PredictingCrimesintheUS) (Python)
 - [Google Data Analytics Professional Certificate](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate) (R)
 
 ### Tableau:
