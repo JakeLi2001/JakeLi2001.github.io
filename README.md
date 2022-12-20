@@ -21,7 +21,7 @@ I am a first-generation college student at CUNY Baruch College, Zicklin School o
 - Languages: Python, R, SQL, PySpark, Bash
 - Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Tidyverse, ggplot2
 - Framework: Streamlit
-- Tools: Git, Jupyter Notebook, Tableau, Relational Database (PostgreSQL, Microsoft Access)
+- Tools: Git, Jupyter Notebook, Tableau, Relational Database (PostgreSQL, Microsoft Access), Excel/Sheets
 
 ## Certification:
 - [Google Data Analytics Professional Certificate](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate)
