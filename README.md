@@ -22,8 +22,8 @@ I am a first-generation college student at CUNY Baruch College, Zicklin School o
 - [Tableau Public](https://public.tableau.com/app/profile/jakeli2001)
 
 ## Skills:
-- Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn), Machine Learning (regression, random forest, NLP, AB testing), R (Tidyverse, ggplot2), SQL, HTML/CSS
-- Technologies: Jupyter Notebook, Git, Rstudio, Tableau, Power BI, Relational Database (PostgreSQL, Microsoft Access)
+- Languages: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn), R (Tidyverse, ggplot2), SQL
+- Technologies: Jupyter Notebook, Git, Rstudio, Data Visualization (Tableau, Power BI), Relational Database (PostgreSQL, Microsoft Access)
 - Certifications: Google Data Analytics Professional Certificate, Microsoft Azure Data Fundamentals
 
 ## Certification:
