@@ -1,4 +1,4 @@
-[Link to my GitHub](https://github.com/JakeLi2001)
+[Link to my GitHub Profile](https://github.com/JakeLi2001)
 
 I am a first-generation college student at CUNY Baruch College, Zicklin School of Business. I am currently a senior majoring in Computer Information Systems (Data Analytics Track) with a minor in Mathematics. I have always been interested in math and technology which leads me to the field of data science. I am interested in solving problems and seek to make an impact using data science. The ability to turn raw data into actionable insights that guide business decisions or solve a problem is truly fascinating and powerful.
 
