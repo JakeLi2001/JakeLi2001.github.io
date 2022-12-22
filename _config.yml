@@ -1,17 +1,10 @@
 remote_theme: abhinavs/moonwalk
 theme_config:
-  appearance: "auto"
+  appearance: "dark"
   appearance_toggle: true
   show_description: true
   show_footer: true
   show_copyright: true
-  show_projects: true
-  show_old_projects: true
-
-  show_tags: true
-  home:
-    title_projects: Projects
-    title_old_projects: Personal Projects
 
 title: JianHui (Jake) Li
 description: Aspiring Data Scientist | Senior Major in CIS Data Analytics @ Baruch College
