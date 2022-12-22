@@ -25,14 +25,16 @@ Hobbies: Anime, tea, video games, guitar, music.
 - Tools: Git, Jupyter Notebook, Tableau, Relational Database (PostgreSQL, Microsoft Access), Excel/Sheets
 
 ## Relevant Coursework:
+### Programming:
+- Programming for Analytics
 
-| Programming | Math/Stat |
-| ------ | ------ |
-| Programming for Analytics | Calculus II |
-| Database Management Systems | Calculus III |
-| Data Mining | Business Statistics |
-| Data Visualization | Introduction to Probability |
-| Big Data Technologies | Linear Algebra & Matrix Methods |
+| Programming | Math/Stat
+| ------ | ------
+| Programming for Analytics | Calculus II
+| Database Management Systems | Calculus III
+| Data Mining | Business Statistics
+| Data Visualization | Introduction to Probability
+| Big Data Technologies | Linear Algebra & Matrix Methods
 
 ## Certification:
 - [Google Data Analytics Professional Certificate](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate)
