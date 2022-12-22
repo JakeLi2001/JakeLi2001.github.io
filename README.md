@@ -7,13 +7,13 @@ I am a first-generation college student at CUNY Baruch College, Zicklin School o
 - [CUNY Tech Prep Data Science Track](https://github.com/JakeLi2001/CTP-Data-Science-Cohort-8)
 
 ## Projects:
-- [CTP Project - Crime Prediction](https://github.com/Fatimajavid/PredictingCrimesintheUS) (Python)
-- [Big Data Stock Price Prediction](https://github.com/JakeLi2001/big-data-stock-price-prediction) (PySpark)
-- [Heart Disease Classification](https://github.com/JakeLi2001/heart-disease-classification) (R)
-- [Data Analyst Keywords Analysis](https://github.com/JakeLi2001/Keywords_for_Data_Analyst) (Python)
+- [CTP Project - Crime Prediction](https://github.com/Fatimajavid/PredictingCrimesintheUS) (Python): Built a web app to predict the total number of crimes in a year using only 5 features with R^2 of 0.93.
+- [Big Data Stock Price Prediction](https://github.com/JakeLi2001/big-data-stock-price-prediction) (PySpark): Built a random forest regressor model to predict stock closing price per minutes using technical indicators.
+- [Heart Disease Classification](https://github.com/JakeLi2001/heart-disease-classification) (R): Built various machine learning models to predict the presence of heart disease using various health status.
+- [Data Analyst Keywords Analysis](https://github.com/JakeLi2001/Keywords_for_Data_Analyst) (Python): Web scraped and analyzed data analyst keywords from various websites.
 
 ## Personal Project:
-- [Google Data Analytics Professional Certificate](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate) (R)
+- [Google Data Analytics Professional Certificate](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate) (R): Identified trends and differences between members and casual riders using Cyclistic historical bike trip data.
 
 ### Tableau:
 - [Tableau Public](https://public.tableau.com/app/profile/jakeli2001)
