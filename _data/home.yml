@@ -1,9 +1,10 @@
 project_entries:
-  - title: Crime Prediction (CTP Project)
+  - title: Crime Prediction
     url: https://github.com/Fatimajavid/PredictingCrimesintheUS
     desc: Built a web app to predict the total number of crimes in a year using only 5 features with R^2 of 0.93.
+    highlight: Python
 
-  - title: Project 2
+  - title: Big Data Stock Price Prediction
     url: overview-post
     desc: Projects are shown in card layout
 
@@ -15,3 +16,20 @@ project_entries:
     url: overview-post
     desc: This project uses highlight markup, configured in _data/home.yml
     highlight: WIP
+ 
+old_project_entries:
+  - title: Soopr
+    url: https://www.soopr.co
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    highlight: NEW
+
+footer_entries:
+  - title: abhinav's homepage
+    url: https://www.abhinav.co
+
+  - title: twitter
+    url: https://twitter.com/abhinav
+
+  - title: github
+    url: https://github.com/abhinavs
+
