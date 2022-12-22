@@ -18,20 +18,20 @@ project_entries:
     url: https://github.com/JakeLi2001/Data-Analyst-Keywords-Analysis
     desc: Web scraped and analyzed data analyst keywords from various websites.
     highlight: Python
- 
-old_project_entries:
-  - title: Bike Share Case Study
-    url: https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate
-    desc: Identified trends and differences between members and casual riders using Cyclistic historical bike trip data.
-    highlight: R
 
-footer_entries:
-  - title: GitHub
-    url: https://github.com/JakeLi2001
+# old_project_entries:
+#   - title: Bike Share Case Study
+#     url: https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate
+#     desc: Identified trends and differences between members and casual riders using Cyclistic historical bike trip data.
+#     highlight: R
 
-  - title: LinkedIn
-    url: www.linkedin.com/in/jakeli2001
+# footer_entries:
+#   - title: GitHub
+#     url: https://github.com/JakeLi2001
 
-  - title: Resume
-    url: https://github.com/abhinavs
+#   - title: LinkedIn
+#     url: www.linkedin.com/in/jakeli2001
+
+#   - title: Resume
+#     url: https://github.com/abhinavs
 
