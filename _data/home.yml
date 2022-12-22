@@ -1,0 +1,17 @@
+project_entries:
+  - title: Crime Prediction (CTP Project)
+    url: https://github.com/Fatimajavid/PredictingCrimesintheUS
+    desc: Built a web app to predict the total number of crimes in a year using only 5 features with R^2 of 0.93.
+
+  - title: Project 2
+    url: overview-post
+    desc: Projects are shown in card layout
+
+  - title: Project 3
+    url: overview-post
+    desc: You can control visibility from _config.yml file
+
+  - title: Project 4
+    url: overview-post
+    desc: This project uses highlight markup, configured in _data/home.yml
+    highlight: WIP
