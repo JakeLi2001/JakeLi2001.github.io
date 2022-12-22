@@ -28,8 +28,9 @@ Hobbies: Anime, tea, video games, guitar, music.
 <!-- ### Programming:
 - Programming for Analytics -->
 
-| <div style="width:200px">Programming</div> | <div style="width:120px">Math/Stat</div> |
+| Programming | Math/Stat |
 | :------: | :------: |
+|<img width=200/>|<img width=500/>|
 | Programming for Analytics | Calculus II |
 | Database Management Systems | Calculus III |
 | Data Mining | Business Statistics |
