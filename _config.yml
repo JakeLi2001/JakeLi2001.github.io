@@ -6,7 +6,10 @@
 #   show_footer: true
 
 remote_theme: mmistakes/minimal-mistakes
-plugins: jekyll-include-cache
+plugins: 
+- jekyll-include-cache
+- jekyll-remote-theme
+
 
 title: JianHui (Jake) Li
 description: Aspiring Data Scientist | Senior Major in CIS Data Analytics @ Baruch College
