@@ -5,31 +5,33 @@ project_entries:
     highlight: Python
 
   - title: Big Data Stock Price Prediction
-    url: overview-post
-    desc: Projects are shown in card layout
+    url: https://github.com/JakeLi2001/big-data-stock-price-prediction
+    desc: Built a random forest regressor model to predict stock closing price per minutes using technical indicators.
+    highlight: AWS and PySpark
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: Heart Disease Detection
+    url: https://github.com/JakeLi2001/heart-disease-classification
+    desc: Built various machine learning models to predict the presence of heart disease using various health status.
+    highlight: R
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+  - title: Data Analyst Keywords Analysis
+    url: https://github.com/JakeLi2001/Data-Analyst-Keywords-Analysis
+    desc: Web scraped and analyzed data analyst keywords from various websites.
+    highlight: Python
  
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+  - title: Bike Share Case Study
+    url: https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate
+    desc: Identified trends and differences between members and casual riders using Cyclistic historical bike trip data.
+    highlight: R
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: GitHub
+    url: https://github.com/JakeLi2001
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: LinkedIn
+    url: www.linkedin.com/in/jakeli2001
 
-  - title: github
+  - title: Resume
     url: https://github.com/abhinavs
 
