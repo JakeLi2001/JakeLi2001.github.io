@@ -24,6 +24,16 @@ Hobbies: Anime, tea, video games, guitar, music.
 - Framework: Streamlit
 - Tools: Git, Jupyter Notebook, Tableau, Relational Database (PostgreSQL, Microsoft Access), Excel/Sheets
 
+## Relevant Coursework:
+
+| Programming | Math |
+| :---: | :---: |
+| Programming for Analytics | Calculus II |
+| Database Management Systems | Calculus III |
+| Data Mining | Business Statistics |
+| Data Visualization | Introduction to Probability |
+| Big Data Technologies | Linear Algebra & Matrix Methods |
+
 ## Certification:
 - [Google Data Analytics Professional Certificate](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate)
 - [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/33df81af-c5bf-4fa9-b5f2-589fa1dd4dc4/public_url)
