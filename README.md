@@ -25,11 +25,11 @@ Hobbies: Anime, tea, video games, guitar, music.
 - Tools: Git, Jupyter Notebook, Tableau, Relational Database (PostgreSQL, Microsoft Access), Excel/Sheets
 
 ## Relevant Coursework:
-### Programming:
-- Programming for Analytics
+<!-- ### Programming:
+- Programming for Analytics -->
 
-| Programming | Math/Stat
-| ------ | ------
+| <div style="width:100px">Programming</div> | <div style="width:120px">Math/Stat</div>
+| :------: | :------:
 | Programming for Analytics | Calculus II
 | Database Management Systems | Calculus III
 | Data Mining | Business Statistics
