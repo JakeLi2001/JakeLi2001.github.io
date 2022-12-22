@@ -25,6 +25,7 @@ Hobbies: Anime, tea, video games, guitar, music.
 - Tools: Git, Jupyter Notebook, Tableau, Relational Database (PostgreSQL, Microsoft Access), Excel/Sheets
 
 ## Relevant Coursework:
+
 | Programming | Math/Stat |
 | :---: | :------: |
 | Programming for Analytics | Calculus II |
