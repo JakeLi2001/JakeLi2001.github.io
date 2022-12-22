@@ -1,29 +1,24 @@
 project_entries:
-  - title: Crime Prediction
+  - title: Crime Prediction (Python)
     url: https://github.com/Fatimajavid/PredictingCrimesintheUS
     desc: Built a web app to predict the total number of crimes in a year using only 5 features with R^2 of 0.93.
-    highlight: Python
 
-  - title: Big Data Stock Price Prediction
+  - title: Big Data Stock Price Prediction (AWS and PySpark)
     url: https://github.com/JakeLi2001/big-data-stock-price-prediction
     desc: Built a random forest regressor model to predict stock closing price per minutes using technical indicators.
-    highlight: AWS and PySpark
 
-  - title: Heart Disease Detection
+  - title: Heart Disease Detection (R)
     url: https://github.com/JakeLi2001/heart-disease-classification
     desc: Built various machine learning models to predict the presence of heart disease using various health status.
-    highlight: R
 
-  - title: Data Analyst Keywords Analysis
+  - title: Data Analyst Keywords Analysis (Python)
     url: https://github.com/JakeLi2001/Data-Analyst-Keywords-Analysis
     desc: Web scraped and analyzed data analyst keywords from various websites.
-    highlight: Python
 
 old_project_entries:
-  - title: Bike Share Case Study
+  - title: Bike Share Case Study (R)
     url: https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate
     desc: Identified trends and differences between members and casual riders using Cyclistic historical bike trip data.
-    highlight: R
 
 footer_entries:
   - title: GitHub
@@ -32,5 +27,5 @@ footer_entries:
   - title: LinkedIn
     url: www.linkedin.com/in/jakeli2001
 
-  - title: Resume
-    url: ".resources/JianHui(Jake)_Li_Resume.pdf"
+#   - title: Resume
+#     url: ".resources/JianHui(Jake)_Li_Resume.pdf"
