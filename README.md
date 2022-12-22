@@ -22,7 +22,7 @@ Hobbies: Anime, tea, video games, guitar, music.
 - **Languages**: Python, R, SQL, PySpark, Bash
 - **Libraries**: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Tidyverse, ggplot2
 - **Framework**: Streamlit
-- **Tools**: Git, Jupyter Notebook, Tableau, Relational Database (PostgreSQL, Microsoft Access), Excel/Sheets
+- **Tools**: Git, Jupyter Notebook, AWS, Tableau, Relational Database (PostgreSQL, Microsoft Access), Excel/Sheets
 
 ## Relevant Coursework:
 ### Programming:
