@@ -25,36 +25,8 @@ Hobbies: Anime, tea, video games, guitar, music.
 - Tools: Git, Jupyter Notebook, Tableau, Relational Database (PostgreSQL, Microsoft Access), Excel/Sheets
 
 ## Relevant Coursework:
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Programming</b></td>
-    <td><b style="font-size:30px">Math/Stat</b></td>
- </tr>
- <tr>
-    <td>Programming for Analytics</td>
-    <td>Calculus II & III</td>
- </tr>
-  <tr>
-    <td>Database Management Systems</td>
-    <td>Business Statistics</td>
- </tr>
-  <tr>
-    <td>Data Mining</td>
-    <td>Introduction to Probability</td>
- </tr>
-  <tr>
-    <td>Data Visualization</td>
-    <td>Linear Algebra & Matrix Methods</td>
- </tr>
- <tr>
-    <td>Big Data Technologies</td>
- </tr>
-</table>
-
-
-## Backup
 | Programming | Math/Stat |
-| :---: | :---: |
+| :---: | :------: |
 | Programming for Analytics | Calculus II |
 | Database Management Systems | Calculus III |
 | Data Mining | Business Statistics |
