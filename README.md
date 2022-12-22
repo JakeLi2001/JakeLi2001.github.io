@@ -15,7 +15,7 @@ Hobbies: Anime, tea, video games, guitar, music.
 ## Personal Project:
 - [Google Data Analytics Professional Certificate](https://github.com/JakeLi2001/Google-Data-Analytics-Professional-Certificate) (R): Identified trends and differences between members and casual riders using Cyclistic historical bike trip data.
 
-### Tableau:
+## Tableau:
 - [Tableau Public](https://public.tableau.com/app/profile/jakeli2001)
 
 ## Skills:
