@@ -19,10 +19,10 @@ Hobbies: Anime, tea, video games, guitar, music.
 - [Tableau Public](https://public.tableau.com/app/profile/jakeli2001)
 
 ## Skills:
-- Languages: Python, R, SQL, PySpark, Bash
-- Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Tidyverse, ggplot2
-- Framework: Streamlit
-- Tools: Git, Jupyter Notebook, Tableau, Relational Database (PostgreSQL, Microsoft Access), Excel/Sheets
+- **Languages**: Python, R, SQL, PySpark, Bash
+- **Libraries**: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Tidyverse, ggplot2
+- **Framework**: Streamlit
+- **Tools**: Git, Jupyter Notebook, Tableau, Relational Database (PostgreSQL, Microsoft Access), Excel/Sheets
 
 ## Relevant Coursework:
 ### Programming:
@@ -32,6 +32,7 @@ Hobbies: Anime, tea, video games, guitar, music.
 * Data Mining
 * Data Visualization
 * Big Data Technologies
+
 ### Math/Stat:
 * Calculus II and III
 * Business Statistics
