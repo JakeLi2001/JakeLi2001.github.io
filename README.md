@@ -27,7 +27,6 @@ Hobbies: Anime, tea, video games, guitar, music.
 ## Relevant Coursework:
 ### Programming:
 * Programming for Analytics
-* Programming for Analytics
 * Database Management Systems
 * Data Mining
 * Data Visualization
