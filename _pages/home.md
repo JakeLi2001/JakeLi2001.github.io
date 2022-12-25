@@ -7,7 +7,7 @@ header:
 excerpt: "Senior majoring in CIS Data Analytics @ Baruch"
 
 feature_row:
-  - image_path: /assets/about_me.png
+  - image_path: /assets/about_me.jpg
     alt: "About Me"
     title: "About Me"
     url: "/about/"
@@ -17,5 +17,3 @@ feature_row:
 ---
 
 {% include feature_row %}
-
-
