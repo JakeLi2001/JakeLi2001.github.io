@@ -1,7 +1,3 @@
-remote_theme: mmistakes/jekyll-theme-basically-basic
+remote_theme: mmistakes/minimal-mistakes
 
-lang: en-US
 title: JianHui (Jake) Li
-description: "Aspiring Data Scientist | Senior Major in CIS Data Analytics @ Baruch College"
-github_username: JakeLi2001
-logo: /assets/logo.png
