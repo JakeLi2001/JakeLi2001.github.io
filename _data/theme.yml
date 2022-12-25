@@ -1,3 +1,4 @@
 skin: night
 navigation_pages:
   - about.md
+  - projects.md
