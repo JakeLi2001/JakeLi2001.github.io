@@ -9,7 +9,7 @@ name: *name "JianHui (Jake) Li"
 author:
   name: *name
   avatar: /assets/headshot.png
-  bio: "Aspiring Data Scientist | Senior majoring in CIS Data Analytics @ Baruch"
+  bio: "Aspiring Data Scientist, Senior majoring in CIS Data Analytics @ Baruch"
   location: "Brooklyn, NY"
   links:
     - label: "GitHub"
