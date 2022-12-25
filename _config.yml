@@ -12,14 +12,20 @@ author:
   location: "Brooklyn, NY"
   links:
     - label: "GitHub"
-    - icon: "fab fa-fw fa-github"
-    - url: "https://github.com/JakeLi2001"
+      icon: "fab fa-github"
+      url: "https://github.com/JakeLi2001"
+    - label: "LinkedIn
+      icon: "fab fa-linkedin"
+      url: "www.linkedin.com/in/jakeli2001"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/JakeLi2001"
+     - label: "LinkedIn
+      icon: "fab fa-linkedin"
+      url: "www.linkedin.com/in/jakeli2001"
 
 include:
   - _pages
