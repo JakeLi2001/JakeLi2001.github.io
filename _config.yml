@@ -4,10 +4,9 @@ locale: "en-US"
 title: "JianHui (Jake) Li"
 subtitle: "Aspiring Data Scientist"
 repository: "JakeLi2001/JakeLi2001.github.io"
-name: *name "JianHui (Jake) Li"
 
 author:
-  name: *name
+  name: "JianHui (Jake) Li"
   avatar: /assets/headshot.png
   bio: "Aspiring Data Scientist, Senior majoring in CIS Data Analytics @ Baruch"
   location: "Brooklyn, NY"
