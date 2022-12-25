@@ -19,7 +19,7 @@ Hobbies: Anime, tea, video games, guitar, music.
 
 ## Relevant Coursework
 | Programming | Math/Stat |
-| ----- | ----- |
+| ----------- | --------- |
 | Programming for Analytics | Calculus II and III |
 | Database Management Systems | Business Statistics |
 | Data Mining | Introduction to Probability |
