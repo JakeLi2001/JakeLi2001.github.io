@@ -59,3 +59,16 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
