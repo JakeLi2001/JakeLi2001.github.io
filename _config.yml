@@ -13,7 +13,7 @@ author:
   location: "Brooklyn, NY"
   links:
     - label: "GitHub"
-    - icon: "fab fa-fw fa-github"
+    - icon: <i class="fab fa-github-square"></i>
     - url: "https://github.com/JakeLi2001"
 
 include:
