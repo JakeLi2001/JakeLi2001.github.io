@@ -1,12 +1,10 @@
 ---
 permalink: /projects/
+layout: single
 title: Projects
-layout: collection
-collection: projects
-entries_layout: grid
-classes: wide
 toc: true
 toc_label: "Table of Contents"
+author_profile: true
 ---
 
 ## Currently Working On: 
