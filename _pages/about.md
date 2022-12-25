@@ -4,6 +4,7 @@ layout: single
 title: "About Me"
 toc: true
 toc_label: "Table of Contents"
+toc_sticky: true
 author_profile: true
 ---
 
