@@ -15,18 +15,13 @@ Hobbies: Anime, tea, video games, guitar, music.
 - **Tools**: Git, Jupyter Notebook, AWS, Tableau, Relational Database (PostgreSQL, Microsoft Access), Excel/Sheets
 
 ## Relevant Coursework:
-### Programming:
-* Programming for Analytics
-* Database Management Systems
-* Data Mining
-* Data Visualization
-* Big Data Technologies
-
-### Math/Stat:
-* Calculus II and III
-* Business Statistics
-* Introduction to Probability
-* Linear Algebra & Matrix Methods
+| Programming | Math/Stat |
+| ----- | ----- |
+| Programming for Analytics | Calculus II and III |
+| Database Management Systems | Business Statistics |
+| Data Mining | Introduction to Probability |
+| Data Visualization | Linear Algebra & Matrix Methods |
+| Big Data Technologies |
 
 ## Certification:
 - [Google Data Analytics Professional Certificate](https://www.credly.com/badges/2d27f34e-bb5b-47e1-ab04-6a2b2081577a/public_url)
