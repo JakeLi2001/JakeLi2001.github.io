@@ -13,7 +13,12 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-   
+  - image_path: /assets/projects.jpg
+    alt: "Projects"
+    title: "Projects"
+    url: "/projects/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
 
 {% include feature_row %}
