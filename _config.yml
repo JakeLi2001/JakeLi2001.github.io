@@ -16,7 +16,7 @@ author:
       url: "https://github.com/JakeLi2001"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "www.linkedin.com/in/jakeli2001"
+      url: "https://www.linkedin.com/in/jakeli2001"
 
 footer:
   links:
@@ -25,7 +25,7 @@ footer:
       url: "https://github.com/JakeLi2001"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "www.linkedin.com/in/jakeli2001"
+      url: "https://www.linkedin.com/in/jakeli2001"
 
 include:
   - _pages
