@@ -4,6 +4,7 @@ layout: single
 title: Projects
 toc: true
 toc_label: "Table of Contents"
+toc_sticky: true
 author_profile: true
 ---
 
