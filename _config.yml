@@ -42,7 +42,7 @@ defaults:
 
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-markdown: kramdown
+markdown: GFM
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
