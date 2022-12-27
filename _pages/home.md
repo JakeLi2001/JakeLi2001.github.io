@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_image: /assets/overlay_image.jpg
-excerpt: "Senior majoring in CIS Data Analytics @ Baruch"
+excerpt: "Senior majoring in CIS Data Analytics @ Baruch College"
 
 feature_row:
   - image_path: /assets/about_me.jpg
