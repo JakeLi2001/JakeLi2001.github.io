@@ -9,8 +9,8 @@ author_profile: true
 ---
 
 ## Currently Working On
-- [CUNY Tech Prep Data Science Track](https://github.com/JakeLi2001/CTP-Data-Science-Cohort-8): A year long technical and professional development program
-- [Mini SQL Projects](https://github.com/JakeLi2001/mini-sql-projects): Find dataset, ask questions, answer using SQL, and visualize with Tableau
+- [CUNY Tech Prep Data Science Track](https://github.com/JakeLi2001/CTP-Data-Science-Cohort-8): A year long technical and professional development program.
+- [Mini SQL Projects](https://github.com/JakeLi2001/mini-sql-projects): Find dataset, ask questions, answer using SQL, and visualize with Tableau.
 
 ## Past Projects
 - [CTP Project - Crime Prediction](https://github.com/Fatimajavid/PredictingCrimesintheUS) (Python): Built a web app to predict the total number of crimes in a year using only 5 features with an R^2 of 0.93.
